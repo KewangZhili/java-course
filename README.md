@@ -64,6 +64,7 @@ The endgame: you can write competitive-programming code, read and modify large e
 | # | Module |
 |---|---|
 | 21 | [JVM internals: memory, GC, safepoints, JIT, classloading](./21-jvm-internals.md) |
+| 21b | [JVM internals deep dive — G1/ZGC phases, JIT tiers, JFR, heap dumps](./21b-jvm-internals-deep.md) |
 | 22 | [Modern Java (records, sealed, pattern matching, modules)](./22-modern-java.md) |
 
 ### Part VI — Building real systems
@@ -73,8 +74,11 @@ The endgame: you can write competitive-programming code, read and modify large e
 | 23 | [Build tools: Maven, Gradle, Bazel](./23-build-tools.md) |
 | 24 | [Testing: JUnit, Mockito, AssertJ](./24-testing.md) |
 | 25 | [Spring core: IoC and dependency injection](./25-spring-core.md) |
+| 25b | [Spring core deep dive — bean lifecycle, AOP proxies, scopes, events](./25b-spring-core-deep.md) |
 | 26 | [Spring Boot](./26-spring-boot.md) |
+| 26b | [Spring Boot deep dive — auto-config internals, JPA gotchas, Actuator, deployment](./26b-spring-boot-deep.md) |
 | 27 | [Enterprise patterns, AOP, transactions](./27-enterprise-patterns.md) |
+| 27b | [Security, caching, messaging, resilience (Spring Security, Kafka, Resilience4j)](./27b-security-caching-messaging.md) |
 
 ### Part VII — Reading other people's Java
 
